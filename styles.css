@@ -1,0 +1,46 @@
+img{
+  width:100px;
+  height:70px;
+  cursor:pointer;
+  float: right;
+}
+.test{
+  padding:100px;
+}
+.q, h2{
+  padding-top: 50px;
+  font-size: 20px;
+  color:#393e46;
+  font-weight: bold;
+}
+span, .wrong,.right{
+  font-size: 18px;
+  color:#34626c;
+  font-weight: bold;
+  margin-top: 50px;
+}
+.send, .Check{
+  background-color: #34626c;
+  border-radius: 78px;
+  border:5px solid #393e46;
+  width:80px;
+  height:40px;
+  margin:40px;
+  cursor: pointer;
+}
+.container{
+text-align: center;
+width:200px;
+background-color:#34626c;
+}
+.operator{
+  background-color: #393e46;
+  width:100px;
+  height:20px;
+
+}
+.num1, .num2{
+  background-color:#fff;
+  width:100px;
+  height:20px;
+}
